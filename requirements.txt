@@ -1,0 +1,12 @@
+langchain>=0.1.0
+langchain-openai>=0.0.2
+openai>=1.3.0
+unstructured>=0.10.30
+Pillow>=10.0.0
+matplotlib>=3.7.0
+python-dotenv>=1.0.0
+pytube>=15.0.0
+yt-dlp>=2023.11.16
+pydub>=0.25.1
+requests>=2.31.0
+pathlib>=1.0.1
